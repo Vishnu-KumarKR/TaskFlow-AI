@@ -1,6 +1,6 @@
 
-<img src="/public/preview.jpg" width="20" /> 
-## TaskFlow AI
+<img src="/public/preview.jpg" width="50" />    # TaskFlow AI
+
 
 A complete production-ready full-stack SaaS application for AI-powered productivity, project management, and team collaboration.
 
