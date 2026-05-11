@@ -1,6 +1,6 @@
 # TaskFlow AI
 
-![TaskFlow AI](channels4_profile.jpg)
+![TaskFlow AI](/public/preview.png)
 
 A complete production-ready full-stack SaaS application for AI-powered productivity, project management, and team collaboration.
 
