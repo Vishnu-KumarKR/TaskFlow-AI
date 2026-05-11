@@ -1,7 +1,7 @@
 # TaskFlow AI
 
 ![TaskFlow AI](/public/preview.jpg)
-
+<img src="/public/preview.jpg" width="200" />
 A complete production-ready full-stack SaaS application for AI-powered productivity, project management, and team collaboration.
 
 ## Features
